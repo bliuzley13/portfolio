@@ -550,8 +550,10 @@ pre code {
 
 .container {
   width: 100%;
-  padding-right: 
-  padding-left: px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   margin-right: auto;
   margin-left: auto;
 }}
@@ -4481,7 +4483,7 @@ input[type="button"].btn-block {
   border-top-left-radius: calc(0.25rem - 1px);
   border-top-right-radius: calc(0.25rem - 1px);
   min-height: 100px;
-  max-height: 100px;
+  max-height: 300px;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 200px;
